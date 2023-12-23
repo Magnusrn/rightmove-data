@@ -53,6 +53,10 @@
     {
       "price": 145000,
       "date": "2023-12-15 13:01:54"
+    },
+    {
+      "price": null,
+      "date": "2023-12-23 12:01:44"
     }
   ],
   "https://www.rightmove.co.uk/properties/137249735#/?channel=RES_BUY": [
