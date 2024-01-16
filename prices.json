@@ -94,5 +94,11 @@
       "price": 159995,
       "date": "2023-12-15 13:02:50"
     }
+  ],
+  "https://www.rightmove.co.uk/properties/139766993#/?channel=RES_BUY": [
+    {
+      "price": 165000,
+      "date": "2024-01-16 20:05:30"
+    }
   ]
 }
