@@ -100,5 +100,41 @@
       "price": 165000,
       "date": "2024-01-16 20:05:30"
     }
+  ],
+  "https://www.rightmove.co.uk/properties/143600771#/?channel=RES_BUY": [
+    {
+      "price": 140000,
+      "date": "2024-01-16 20:06:45"
+    }
+  ],
+  "https://www.rightmove.co.uk/properties/143545931#/?channel=RES_BUY": [
+    {
+      "price": 170000,
+      "date": "2024-01-16 20:06:53"
+    }
+  ],
+  "https://www.rightmove.co.uk/properties/143496650#/?channel=RES_BUY": [
+    {
+      "price": 165000,
+      "date": "2024-01-16 20:07:14"
+    }
+  ],
+  "https://www.rightmove.co.uk/properties/143599664#/?channel=RES_BUY": [
+    {
+      "price": 170000,
+      "date": "2024-01-16 20:07:21"
+    }
+  ],
+  "https://www.rightmove.co.uk/properties/143628248#/?channel=RES_BUY": [
+    {
+      "price": 150000,
+      "date": "2024-01-16 20:07:27"
+    }
+  ],
+  "https://www.rightmove.co.uk/properties/143546453#/?channel=RES_BUY": [
+    {
+      "price": 165000,
+      "date": "2024-01-16 20:07:34"
+    }
   ]
 }
